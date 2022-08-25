@@ -1,10 +1,14 @@
 <resources>
-    <string name="app_name">PassGeneratorLord</string>
+    <string name="app_name">Calories Run</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="generate">generate</string>
+    <string name="settings_text">settings</string>
+    <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.</string>
+    <string name="music">music</string>
+    <string name="text_activity_good">Running is one of the simplest and most affordable types of physical activity. They are engaged in by professional athletes and beginners, children and adults, those who are *on the mass* and those who are *on the dry* - in general, everything, everything, everything</string>
 
     <string-array name="diff_levels">
         <item>SIMPLE</item>
